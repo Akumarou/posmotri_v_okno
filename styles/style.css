@@ -43,10 +43,10 @@ ol {
   height: 100%;
   width: 100%;
   display: flex;
-  margin: 0 auto;
+  margin: auto;
   flex-direction: row;
   align-items: end;
-  padding: 133px 30px;
+  padding: 0 30px;
   gap: 30px;
 }
 
